@@ -49,7 +49,7 @@ project-template/
 
 ## 🚀 Cómo usar este template
 
-1. Haz clic en **“Use this template”** en la parte superior del repositorio.  
+1. Haz clic  en **“Use this template”** en la parte superior del repositorio.  
 2. Ponle un nombre a tu nuevo proyecto.  
 3. Clónalo y configura tu entorno:
 
@@ -57,6 +57,3 @@ project-template/
 git clone https://github.com/TU_USUARIO/NUEVO_PROYECTO.git
 cd NUEVO_PROYECTO
 pip install -r requirements.txt
-
-
-_Prueba de comiit desde VS code-_
