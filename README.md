@@ -57,3 +57,6 @@ project-template/
 git clone https://github.com/TU_USUARIO/NUEVO_PROYECTO.git
 cd NUEVO_PROYECTO
 pip install -r requirements.txt
+
+
+_Prueba de comiit desde VS code-_
